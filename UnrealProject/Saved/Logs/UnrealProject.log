@@ -1291,3 +1291,290 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.01.15-19.44.15:208][384]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
 [2024.01.15-19.44.21:560][402]LogDerivedDataCache: C:/Users/DESKTOP.GE/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.187 and deleted 0 files with total size 0 MiB and 118 empty folders. Scanned 6017 files in 7847 folders with total size 1254 MiB.
 [2024.01.15-19.46.32:354][207]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.01.15-19.47.41:954][108]LogSlate: Took 0.000610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.15-19.48.12:592][844]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-19.48.12:602][844]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.15-19.48.12:602][844]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Engine/Transient.World_1:PersistentLevel.BP_MyCharacter_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: ================================================
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: RAM used: 23.00 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Jobs assigned 2, completed 1 (50.00%)
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 0.72 s
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Job life time (pending + execution): average 0.74 s, max 0.74
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Shader code size: average 37.945 KiB, min 37.945 KiB, max 37.945 KiB
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.74 s
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Average processing rate: 1.34 jobs/sec
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Total thread time: 0.373 s
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Total thread preprocess time: 0.032 s
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Percentage time preprocessing: 8.69%
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Effective parallelization: 0.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.01.15-19.48.13:459][889]LogShaderCompilers: Display: ================================================
+[2024.01.15-19.48.34:635][ 32]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.01.15-19.48.34:679][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_diffuse_ncl1_1.Boss_diffuse_ncl1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.34:680][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_normal_ncl1_1.Boss_normal_ncl1_1 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.34:686][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_specular_ncl1_1.Boss_specular_ncl1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.34:688][ 32]LogSkeletalMesh: Building Skeletal Mesh The_Boss...
+[2024.01.15-19.48.34:707][ 32]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (The_Boss) ...
+[2024.01.15-19.48.34:828][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_normal.Boss_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.34:829][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_diffuse.Boss_diffuse (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.34:906][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_specular.Boss_specular (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.34:908][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_diffuse_ncl1_3.Boss_diffuse_ncl1_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.34:984][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_normal_ncl1_3.Boss_normal_ncl1_3 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.34:993][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_specular_ncl1_3.Boss_specular_ncl1_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.35:040][ 32]LogSkeletalMesh: Built Skeletal Mesh [0.35s] /Game/Meshes/Gela/The_Boss.The_Boss
+[2024.01.15-19.48.35:049][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.15-19.48.35:073][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_diffuse_ncl1_2.Boss_diffuse_ncl1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.35:080][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_normal_ncl1_2.Boss_normal_ncl1_2 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.35:082][ 32]LogTexture: Display: Building textures: /Game/Meshes/Gela/Boss_specular_ncl1_2.Boss_specular_ncl1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.39:697][ 32]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.15-19.48.39:887][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.15-19.48.39:892][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.15-19.48.39:896][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.15-19.48.40:120][ 32]SourceControl: Error: Updated 0 paths from the index
+[2024.01.15-19.48.40:319][ 32]SourceControl: Error: warning: could not open directory 'UnrealProject/Content/Meshes/': No such file or directory
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_diffuse.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_diffuse_ncl1_1.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_diffuse_ncl1_2.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_diffuse_ncl1_3.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_normal.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_normal_ncl1_1.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_normal_ncl1_2.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_normal_ncl1_3.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_specular.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_specular_ncl1_1.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_specular_ncl1_2.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Boss_specular_ncl1_3.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Cigar_Mat.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Clothes_MAT.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Clothes_MAT_ncl1_1.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Eyes_MAT.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Eyes_MAT_ncl1_1.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/Skin_MAT.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/The_Boss.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/The_Boss_PhysicsAsset.uasset'
+[2024.01.15-19.48.40:319][ 32]SourceControl: rm 'UnrealProject/Content/Meshes/Gela/The_Boss_Skeleton.uasset'
+[2024.01.15-19.48.40:390][ 33]LogAutomationController: Ignoring very large delta of 5.77 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-19.48.44:781][246]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-19.48.48:222][424]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.01.15-19.48.54:369][753]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.15-19.48.54:506][753]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.15-19.48.54:518][754]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.15-19.48.56:708][885]LogContentBrowser: Attempting asset rename: NewFolder -> Barrel
+[2024.01.15-19.48.56:708][885]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.15-19.48.59:270][ 31]LogTexture: Display: Building textures: /Game/ExampleContent/Effects/Textures/T_Dissolve_Mob_M.T_Dissolve_Mob_M (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.59:316][ 31]LogTexture: Display: Building textures: /Game/ExampleContent/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_D_01.T_Enemy_GreaterSpider_Fire_D_01 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.59:325][ 31]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-19.48.59:331][ 31]LogTexture: Display: Building textures: /Game/ExampleContent/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_M.T_Enemy_GreaterSpider_Fire_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.01.15-19.48.59:511][ 39]LogTexture: Display: Building textures: /Game/ExampleContent/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_N.T_Enemy_GreaterSpider_Fire_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.01.15-19.49.02:606][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_MagicProjectile.BP_MagicProjectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameplayComponent/BP_MagicProjectile.PackageMetaData'
+[2024.01.15-19.49.02:606][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_MagicProjectile.BP_MagicProjectile_C' ref from Metadata '/Game/GameplayComponent/BP_MagicProjectile.PackageMetaData'
+[2024.01.15-19.49.02:606][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_MagicProjectile.BP_MagicProjectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GameplayComponent/BP_MagicProjectile.PackageMetaData'
+[2024.01.15-19.49.02:606][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_MagicProjectile.BP_MagicProjectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GameplayComponent/BP_MagicProjectile.PackageMetaData'
+[2024.01.15-19.49.02:606][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_MagicProjectile.BP_MagicProjectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/GameplayComponent/BP_MagicProjectile.PackageMetaData'
+[2024.01.15-19.49.02:606][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_MagicProjectile.SKEL_BP_MagicProjectile_C:ReceiveBeginPlay' ref from Metadata '/Game/GameplayComponent/BP_MagicProjectile.PackageMetaData'
+[2024.01.15-19.49.02:606][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_MagicProjectile.SKEL_BP_MagicProjectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/GameplayComponent/BP_MagicProjectile.PackageMetaData'
+[2024.01.15-19.49.02:606][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_MagicProjectile.SKEL_BP_MagicProjectile_C:ReceiveTick' ref from Metadata '/Game/GameplayComponent/BP_MagicProjectile.PackageMetaData'
+[2024.01.15-19.49.02:606][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_MagicProjectile.SKEL_BP_MagicProjectile_C:BndEvt__BP_MagicProjectile_SphereComp_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/GameplayComponent/BP_MagicProjectile.PackageMetaData'
+[2024.01.15-19.49.02:606][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_MagicProjectile.SKEL_BP_MagicProjectile_C:UserConstructionScript' ref from Metadata '/Game/GameplayComponent/BP_MagicProjectile.PackageMetaData'
+[2024.01.15-19.49.02:606][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_MagicProjectile.SKEL_BP_MagicProjectile_C' ref from Metadata '/Game/GameplayComponent/BP_MagicProjectile.PackageMetaData'
+[2024.01.15-19.49.02:626][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.BP_ExplosiveBarrel:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel.PackageMetaData'
+[2024.01.15-19.49.02:627][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.BP_ExplosiveBarrel_C' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel.PackageMetaData'
+[2024.01.15-19.49.02:627][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.BP_ExplosiveBarrel:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel.PackageMetaData'
+[2024.01.15-19.49.02:627][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.BP_ExplosiveBarrel:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel.PackageMetaData'
+[2024.01.15-19.49.02:627][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.BP_ExplosiveBarrel:EventGraph.K2Node_Event_2' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel.PackageMetaData'
+[2024.01.15-19.49.02:627][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.SKEL_BP_ExplosiveBarrel_C:ReceiveBeginPlay' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel.PackageMetaData'
+[2024.01.15-19.49.02:627][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.SKEL_BP_ExplosiveBarrel_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel.PackageMetaData'
+[2024.01.15-19.49.02:627][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.SKEL_BP_ExplosiveBarrel_C:ReceiveTick' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel.PackageMetaData'
+[2024.01.15-19.49.02:627][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.SKEL_BP_ExplosiveBarrel_C:BndEvt__BP_ExplosiveBarrel_SM_RedBarrel_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel.PackageMetaData'
+[2024.01.15-19.49.02:627][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.SKEL_BP_ExplosiveBarrel_C:UserConstructionScript' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel.PackageMetaData'
+[2024.01.15-19.49.02:627][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.SKEL_BP_ExplosiveBarrel_C' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel.PackageMetaData'
+[2024.01.15-19.49.02:644][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.BP_ExplosiveBarrel01_C' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel01.PackageMetaData'
+[2024.01.15-19.49.02:644][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.BP_ExplosiveBarrel01:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel01.PackageMetaData'
+[2024.01.15-19.49.02:644][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.BP_ExplosiveBarrel01:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel01.PackageMetaData'
+[2024.01.15-19.49.02:644][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.BP_ExplosiveBarrel01:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel01.PackageMetaData'
+[2024.01.15-19.49.02:644][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.BP_ExplosiveBarrel01:EventGraph.K2Node_Event_2' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel01.PackageMetaData'
+[2024.01.15-19.49.02:644][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.SKEL_BP_ExplosiveBarrel01_C:ReceiveBeginPlay' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel01.PackageMetaData'
+[2024.01.15-19.49.02:644][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.SKEL_BP_ExplosiveBarrel01_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel01.PackageMetaData'
+[2024.01.15-19.49.02:644][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.SKEL_BP_ExplosiveBarrel01_C:ReceiveTick' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel01.PackageMetaData'
+[2024.01.15-19.49.02:644][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.SKEL_BP_ExplosiveBarrel01_C:BndEvt__BP_ExplosiveBarrel01_SM_RedBarrel_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel01.PackageMetaData'
+[2024.01.15-19.49.02:644][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.SKEL_BP_ExplosiveBarrel01_C:UserConstructionScript' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel01.PackageMetaData'
+[2024.01.15-19.49.02:644][131]LogMetaData: Removing '/Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.SKEL_BP_ExplosiveBarrel01_C' ref from Metadata '/Game/GameplayComponent/BP_ExplosiveBarrel01.PackageMetaData'
+[2024.01.15-19.49.02:662][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-19.49.02:733][131]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.007175 seconds
+[2024.01.15-19.49.02:734][131]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/GameplayComponent/Barrel/BP_MagicProjectile does not exist, will not scan.
+[2024.01.15-19.49.02:742][131]LogSavePackage: Moving output files for package: /Game/GameplayComponent/Barrel/BP_MagicProjectile
+[2024.01.15-19.49.02:742][131]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/BP_MagicProjectile019A7940431F628878A5BABA25EEB2E6.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Content/GameplayComponent/Barrel/BP_MagicProjectile.uasset'
+[2024.01.15-19.49.02:750][131]LogSavePackage: Moving output files for package: /Game/GameplayComponent/BP_MagicProjectile
+[2024.01.15-19.49.02:751][131]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/BP_MagicProjectileD5E3AA7A4087548B82F170A86F1B6A2A.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Content/GameplayComponent/BP_MagicProjectile.uasset'
+[2024.01.15-19.49.02:755][131]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/GameplayComponent/Barrel/BP_ExplosiveBarrel does not exist, will not scan.
+[2024.01.15-19.49.02:760][131]LogSavePackage: Moving output files for package: /Game/GameplayComponent/Barrel/BP_ExplosiveBarrel
+[2024.01.15-19.49.02:760][131]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/BP_ExplosiveBarrel088D8FCE441F547B172A0087F71C1351.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Content/GameplayComponent/Barrel/BP_ExplosiveBarrel.uasset'
+[2024.01.15-19.49.02:768][131]LogSavePackage: Moving output files for package: /Game/GameplayComponent/BP_ExplosiveBarrel
+[2024.01.15-19.49.02:769][131]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/BP_ExplosiveBarrelDB3733B74DE0A69E3105CAA0DA0CFC02.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Content/GameplayComponent/BP_ExplosiveBarrel.uasset'
+[2024.01.15-19.49.02:773][131]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01 does not exist, will not scan.
+[2024.01.15-19.49.02:781][131]LogSavePackage: Moving output files for package: /Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01
+[2024.01.15-19.49.02:781][131]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/BP_ExplosiveBarrel01304D581D4AE1760833EA9DA67972BF5B.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Content/GameplayComponent/Barrel/BP_ExplosiveBarrel01.uasset'
+[2024.01.15-19.49.02:789][131]LogSavePackage: Moving output files for package: /Game/GameplayComponent/BP_ExplosiveBarrel01
+[2024.01.15-19.49.02:789][131]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/BP_ExplosiveBarrel01A5F156F94B6AD13E54984FAFC49DE075.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Content/GameplayComponent/BP_ExplosiveBarrel01.uasset'
+[2024.01.15-19.49.02:960][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 297 ms
+[2024.01.15-19.49.03:440][131]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.15-19.49.03:440][131]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameplayComponent/Barrel/BP_MagicProjectile.BP_MagicProjectile
+[2024.01.15-19.49.03:440][131]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GameplayComponent/BP_MagicProjectile.BP_MagicProjectile
+[2024.01.15-19.49.03:440][131]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GameplayComponent/BP_MagicProjectile.BP_MagicProjectile_C
+[2024.01.15-19.49.03:440][131]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GameplayComponent/BP_MagicProjectile.Default__BP_MagicProjectile_C
+[2024.01.15-19.49.03:440][131]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameplayComponent/Barrel/BP_ExplosiveBarrel.BP_ExplosiveBarrel
+[2024.01.15-19.49.03:440][131]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GameplayComponent/BP_ExplosiveBarrel.BP_ExplosiveBarrel
+[2024.01.15-19.49.03:441][131]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GameplayComponent/BP_ExplosiveBarrel.BP_ExplosiveBarrel_C
+[2024.01.15-19.49.03:441][131]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GameplayComponent/BP_ExplosiveBarrel.Default__BP_ExplosiveBarrel_C
+[2024.01.15-19.49.03:441][131]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameplayComponent/Barrel/BP_ExplosiveBarrel01.BP_ExplosiveBarrel01
+[2024.01.15-19.49.03:441][131]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GameplayComponent/BP_ExplosiveBarrel01.BP_ExplosiveBarrel01
+[2024.01.15-19.49.03:441][131]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GameplayComponent/BP_ExplosiveBarrel01.BP_ExplosiveBarrel01_C
+[2024.01.15-19.49.03:441][131]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/GameplayComponent/BP_ExplosiveBarrel01.Default__BP_ExplosiveBarrel01_C
+[2024.01.15-19.49.06:194][258]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.15-19.49.06:280][258]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.15-19.49.06:295][259]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.15-19.49.08:463][386]LogContentBrowser: Attempting asset rename: NewFolder -> Chest
+[2024.01.15-19.49.08:464][386]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.15-19.49.16:076][624]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\DESKTOP.GE\Downloads\SM_Chest_Lid.FBX)
+[2024.01.15-19.49.16:101][624]LogFbx: Loading FBX Scene from C:\Users\DESKTOP.GE\Downloads\SM_Chest_Lid.FBX
+[2024.01.15-19.49.16:114][624]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.15-19.49.25:476][624]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.15-19.49.25:603][624]LogFbxMaterialImport: Display: Unable to find Texture file C:/Users/Thomas.Browett/Desktop/Blueprints/RTS_Env_M_Iron_N.TGA
+[2024.01.15-19.49.25:615][624]LogStaticMesh: Display: Building static mesh SM_Chest_Lid...
+[2024.01.15-19.49.25:636][624]LogStaticMesh: Built static mesh [0.02s] /Game/GameplayComponent/Chest/SM_Chest_Lid.SM_Chest_Lid
+[2024.01.15-19.49.25:648][624]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.15-19.49.25:837][624]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\DESKTOP.GE\Downloads\SM_Chest_Bottom.FBX)
+[2024.01.15-19.49.25:844][624]LogFbx: Loading FBX Scene from C:\Users\DESKTOP.GE\Downloads\SM_Chest_Bottom.FBX
+[2024.01.15-19.49.25:851][624]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.15-19.49.25:918][624]LogStaticMesh: Display: Building static mesh SM_Chest_Bottom...
+[2024.01.15-19.49.25:938][624]LogStaticMesh: Built static mesh [0.02s] /Game/GameplayComponent/Chest/SM_Chest_Bottom.SM_Chest_Bottom
+[2024.01.15-19.49.25:949][624]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.15-19.49.26:027][625]LogAutomationController: Ignoring very large delta of 10.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-19.49.26:029][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-19.49.29:825][826]LogSlate: Window 'Message Log' being destroyed
+[2024.01.15-19.49.29:831][826]LogSlate: Window 'Message Log' being destroyed
+[2024.01.15-19.49.39:114][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Bottom.SM_Chest_Bottom
+[2024.01.15-19.49.39:115][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Bottom.SM_Chest_Bottom
+[2024.01.15-19.49.39:117][330]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Bottom.SM_Chest_Bottom as actor: StaticMeshActor /Game/StarterContent/Maps/Class.Class:PersistentLevel.StaticMeshActor_0
+[2024.01.15-19.49.40:278][390]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Bottom.SM_Chest_Bottom
+[2024.01.15-19.49.40:278][390]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Bottom.SM_Chest_Bottom
+[2024.01.15-19.49.40:280][390]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Bottom.SM_Chest_Bottom as actor: StaticMeshActor /Game/StarterContent/Maps/Class.Class:PersistentLevel.StaticMeshActor_2
+[2024.01.15-19.49.43:420][545]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Lid.SM_Chest_Lid
+[2024.01.15-19.49.43:420][545]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Lid.SM_Chest_Lid
+[2024.01.15-19.49.43:420][545]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Lid.SM_Chest_Lid as actor: StaticMeshActor /Game/StarterContent/Maps/Class.Class:PersistentLevel.StaticMeshActor_3
+[2024.01.15-19.49.48:432][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Lid.SM_Chest_Lid
+[2024.01.15-19.49.48:432][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Lid.SM_Chest_Lid
+[2024.01.15-19.49.48:434][834]LogActorFactory: Actor Factory spawned StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Lid.SM_Chest_Lid as actor: StaticMeshActor /Game/StarterContent/Maps/Class.Class:PersistentLevel.StaticMeshActor_4
+[2024.01.15-19.50.18:205][447]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/GameplayComponent/Chest/M_Treasure_Chest.M_Treasure_Chest
+[2024.01.15-19.50.18:226][447]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-19.50.18:226][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-19.50.18:552][447]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.15-19.50.18:552][447]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.15-19.50.18:552][447]MaterialEditorStats: Shader Count: 0
+[2024.01.15-19.50.18:570][447]LogViewport: Scene viewport resized to 297x373, mode Windowed.
+[2024.01.15-19.50.18:697][449]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.01.15-19.50.18:697][449]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.15-19.50.18:697][449]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.15-19.50.18:697][449]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.15-19.50.18:697][449]MaterialEditorStats: Shader Count: 4
+[2024.01.15-19.50.23:321][663]LogSlate: Window 'M_Treasure_Chest' being destroyed
+[2024.01.15-19.50.23:328][663]LogSlate: Window 'M_Treasure_Chest' being destroyed
+[2024.01.15-19.50.23:368][663]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-19.50.23:368][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-19.52.04:721][756]Cmd: SELECT NONE
+[2024.01.15-19.52.31:902][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.01.15-19.52.31:917][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Class_Auto1
+[2024.01.15-19.52.31:917][298]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/Class_Auto1E1FD21454FA6910447D29A96530F5797.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/Autosaves/Game/StarterContent/Maps/Class_Auto1.umap'
+[2024.01.15-19.52.31:919][298]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/Autosaves/Game/StarterContent/Maps/Class_Auto1.umap is in the /Temp path, will not scan.
+[2024.01.15-19.52.31:919][298]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Class' took 0.033
+[2024.01.15-19.52.31:919][298]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2024.01.15-19.52.31:920][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonCharacter/BP_MyCharacter] ([2] browsable assets)...
+[2024.01.15-19.52.31:920][298]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-19.52.31:928][298]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.15-19.52.31:928][298]LogScript: Warning: Script Msg called by: Gideon_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_MyCharacter_C_0.CharacterMesh0.Gideon_AnimBlueprint_C_0
+[2024.01.15-19.52.31:979][298]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonCharacter/BP_MyCharacter.BP_MyCharacter_C]
+[2024.01.15-19.52.31:993][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCharacter/BP_MyCharacter.BP_MyCharacter]
+[2024.01.15-19.52.31:994][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCharacter/BP_MyCharacter]
+[2024.01.15-19.52.32:000][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonCharacter/BP_MyCharacter_Auto1
+[2024.01.15-19.52.32:001][298]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/BP_MyCharacter_Auto1B1D4B8254C984DA1ADB297B4307D0FB1.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/Autosaves/Game/ThirdPersonCharacter/BP_MyCharacter_Auto1.uasset'
+[2024.01.15-19.52.32:003][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameplayComponent/Chest/SM_Chest_Lid] ([1] browsable assets)...
+[2024.01.15-19.52.32:012][298]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Lid.SM_Chest_Lid]
+[2024.01.15-19.52.32:012][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayComponent/Chest/SM_Chest_Lid]
+[2024.01.15-19.52.32:017][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameplayComponent/Chest/SM_Chest_Lid_Auto1
+[2024.01.15-19.52.32:017][298]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/SM_Chest_Lid_Auto1458D22CC466BBFD263241A866FC66339.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/Autosaves/Game/GameplayComponent/Chest/SM_Chest_Lid_Auto1.uasset'
+[2024.01.15-19.52.32:018][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameplayComponent/Chest/M_Treasure_Chest] ([1] browsable assets)...
+[2024.01.15-19.52.33:715][298]LogShaderCompilers: Display: ================================================
+[2024.01.15-19.52.33:715][298]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.15-19.52.33:715][298]LogShaderCompilers: Display: Total job queries 38, among them cache hits 8 (21.05%)
+[2024.01.15-19.52.33:715][298]LogShaderCompilers: Display: Tracking 30 distinct input hashes that result in 27 distinct outputs (90.00%)
+[2024.01.15-19.52.33:715][298]LogShaderCompilers: Display: RAM used: 734.22 KiB of 1.60 GiB budget. Usage: 0.04%
+[2024.01.15-19.52.33:715][298]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.15-19.52.33:715][298]LogShaderCompilers: Display: Shaders Compiled: 30
+[2024.01.15-19.52.33:715][298]LogShaderCompilers: Display: Jobs assigned 30, completed 30 (100%)
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Average time worker was idle: 35.91 s
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Time job spent in pending queue: average 0.45 s, longest 1.37 s
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Job execution time: average 0.54 s, max 0.83 s
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Job life time (pending + execution): average 0.99 s, max 1.67
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Shader code size: average 38.739 KiB, min 29.711 KiB, max 60.766 KiB
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.50 s
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Average processing rate: 5.46 jobs/sec
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Total thread time: 10.574 s
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Total thread preprocess time: 1.043 s
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Percentage time preprocessing: 9.86%
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Effective parallelization: 1.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.44 sec, max 0.49 sec, min 0.40 sec)
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.40 sec, max 0.51 sec, min 0.36 sec)
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.62% of total time (compiled    4 times, average 0.44 sec, max 0.49 sec, min 0.40 sec)
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.06% of total time (compiled    4 times, average 0.40 sec, max 0.51 sec, min 0.36 sec)
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.57% of total time (compiled    2 times, average 0.35 sec, max 0.36 sec, min 0.33 sec)
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 4.15% of total time (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.70% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.01.15-19.52.33:716][298]LogShaderCompilers: Display: ================================================
+[2024.01.15-19.52.33:730][298]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GameplayComponent/Chest/M_Treasure_Chest.M_Treasure_Chest]
+[2024.01.15-19.52.33:730][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayComponent/Chest/M_Treasure_Chest]
+[2024.01.15-19.52.33:732][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameplayComponent/Chest/M_Treasure_Chest_Auto1
+[2024.01.15-19.52.33:732][298]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/M_Treasure_Chest_Auto1F353938E4783A1AFDE9B2487F97D08E7.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/Autosaves/Game/GameplayComponent/Chest/M_Treasure_Chest_Auto1.uasset'
+[2024.01.15-19.52.33:734][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameplayComponent/Chest/SM_Chest_Bottom] ([1] browsable assets)...
+[2024.01.15-19.52.33:749][298]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Bottom.SM_Chest_Bottom]
+[2024.01.15-19.52.33:749][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayComponent/Chest/SM_Chest_Bottom]
+[2024.01.15-19.52.33:755][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameplayComponent/Chest/SM_Chest_Bottom_Auto1
+[2024.01.15-19.52.33:755][298]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/SM_Chest_Bottom_Auto10611697C4FED3ECFF77E0789E3F98544.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/Autosaves/Game/GameplayComponent/Chest/SM_Chest_Bottom_Auto1.uasset'
+[2024.01.15-19.52.33:757][298]LogFileHelpers: Auto-saving content packages took 1.837
+[2024.01.15-19.52.33:803][299]LogAutomationController: Ignoring very large delta of 2.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-19.58.15:463][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.01.15-19.58.15:720][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-19.58.15:845][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.15-19.58.15:858][939]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Class
+[2024.01.15-19.58.15:858][939]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/ClassFB274691407EF2411F2BF19D8DB2B228.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Content/StarterContent/Maps/Class.umap'
+[2024.01.15-19.58.15:867][939]LogFileHelpers: Saving map 'Class' took 0.063
+[2024.01.15-19.58.15:872][939]LogSavePackage: Moving output files for package: /Game/ThirdPersonCharacter/BP_MyCharacter
+[2024.01.15-19.58.15:873][939]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/BP_MyCharacter752496954A3D3EB51F85548894E56D19.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Content/ThirdPersonCharacter/BP_MyCharacter.uasset'
+[2024.01.15-19.58.15:877][939]LogSavePackage: Moving output files for package: /Game/GameplayComponent/Chest/SM_Chest_Lid
+[2024.01.15-19.58.15:877][939]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/SM_Chest_LidABDBA157475B1C42AF403CAFAA40866E.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Content/GameplayComponent/Chest/SM_Chest_Lid.uasset'
+[2024.01.15-19.58.15:882][939]LogSavePackage: Moving output files for package: /Game/GameplayComponent/Chest/M_Treasure_Chest
+[2024.01.15-19.58.15:882][939]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/M_Treasure_Chest90DAF8A442AFAF1E0BA09ABC2179D29D.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Content/GameplayComponent/Chest/M_Treasure_Chest.uasset'
+[2024.01.15-19.58.15:885][939]LogSavePackage: Moving output files for package: /Game/GameplayComponent/Chest/SM_Chest_Bottom
+[2024.01.15-19.58.15:885][939]LogSavePackage: Moving '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Saved/SM_Chest_Bottom212E76B34A53B91060BBC79C9F5D33F4.tmp' to '../../../../../../Users/DESKTOP.GE/Desktop/UA Shool/Unreal Engine/UnrealProject/UnrealProject/Content/GameplayComponent/Chest/SM_Chest_Bottom.uasset'
+[2024.01.15-19.58.16:085][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 365 ms (total: 662 ms)
+[2024.01.15-19.58.16:087][939]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.15-19.58.16:087][939]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Class.Class
+[2024.01.15-19.58.16:087][939]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonCharacter/BP_MyCharacter.BP_MyCharacter
+[2024.01.15-19.58.16:087][939]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Lid.SM_Chest_Lid
+[2024.01.15-19.58.16:087][939]LogContentValidation: Display: Validating /Script/Engine.Material /Game/GameplayComponent/Chest/M_Treasure_Chest.M_Treasure_Chest
+[2024.01.15-19.58.16:087][939]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/GameplayComponent/Chest/SM_Chest_Bottom.SM_Chest_Bottom

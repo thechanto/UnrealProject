@@ -4,23 +4,35 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "SGameplayInteface.h"
 #include "Chest.generated.h"
 
+class UStaticMeshComponent;
+
 UCLASS()
-class UNREALPROJECT_API AChest : public AActor
+class ACTIONROGUELIKE_API AChest : public AActor, public ISGameplayInterface
 {
 	GENERATED_BODY()
-	
-public:	
-	// Sets default values for this actor's properties
-	AChest();
+
+public:
+
+	UPROPERTY(EditAnywhere)
+	float TargetPitch;
+
+	virtual void Interact_Implemenation(APawn* InstigatorPawn);
 
 protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
 
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
+	UPROPERTY(VisibleAnywhere)
+	UStaticMeshComponent* BaseMesh;
+
+	UPROPERTY(VisibleAnywhere)
+	UStaticMeshComponent* LidMesh;
+
+	
+public: 
+	
+	//Sets default values for this actor's properties
+	AChest();
 
 };

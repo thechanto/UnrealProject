@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "imwHdFM7nlVRn/+/dbRcASxHaWnt2GNY7AwICL988Nvc+7uB2T7Oek6nZbrFA5J7TpdDN9iMGR/NNgcSsyaSsA==",
+  "dgSpecHash": "FZ++ut7XLjlibA5c6aGSOklM8UiaA8ARWI0UhQR/AjxinpU5c367/7wiA0CX7LBh7tOoIsiKQlVwmovjSQPi9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DESKTOP.GE\\Documents\\Unreal Projects\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\UnrealProjectModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\DESKTOP.GE\\Desktop\\UA Shool\\Unreal Engine\\UnrealProject\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\UnrealProjectModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DESKTOP.GE\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\DESKTOP.GE\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

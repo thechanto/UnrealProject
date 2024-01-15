@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DESKTOP.GE\\Documents\\Unreal Projects\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\UnrealProjectModuleRules.csproj": {}
+    "C:\\Users\\DESKTOP.GE\\Desktop\\UA Shool\\Unreal Engine\\UnrealProject\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\UnrealProjectModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
@@ -1021,14 +1021,14 @@
         }
       }
     },
-    "C:\\Users\\DESKTOP.GE\\Documents\\Unreal Projects\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\UnrealProjectModuleRules.csproj": {
+    "C:\\Users\\DESKTOP.GE\\Desktop\\UA Shool\\Unreal Engine\\UnrealProject\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\UnrealProjectModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DESKTOP.GE\\Documents\\Unreal Projects\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\UnrealProjectModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\DESKTOP.GE\\Desktop\\UA Shool\\Unreal Engine\\UnrealProject\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\UnrealProjectModuleRules.csproj",
         "projectName": "UnrealProjectModuleRules",
-        "projectPath": "C:\\Users\\DESKTOP.GE\\Documents\\Unreal Projects\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\UnrealProjectModuleRules.csproj",
+        "projectPath": "C:\\Users\\DESKTOP.GE\\Desktop\\UA Shool\\Unreal Engine\\UnrealProject\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\UnrealProjectModuleRules.csproj",
         "packagesPath": "C:\\Users\\DESKTOP.GE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DESKTOP.GE\\Documents\\Unreal Projects\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\DESKTOP.GE\\Desktop\\UA Shool\\Unreal Engine\\UnrealProject\\UnrealProject\\Intermediate\\Build\\BuildRulesProjects\\UnrealProjectModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DESKTOP.GE\\AppData\\Roaming\\NuGet\\NuGet.Config",

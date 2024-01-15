@@ -43,6 +43,9 @@
     <Filter Include="Source\UnrealProject\Private">
       <UniqueIdentifier>{3D7E34DE-5AE9-36F0-9BF3-902D243955B4}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UnrealProject\Private\Chest.cpp">
+      <Filter>Source\UnrealProject\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UnrealProject\Private\ExplosiveBarrel.cpp">
       <Filter>Source\UnrealProject\Private</Filter>
     </ClCompile>
@@ -55,6 +58,9 @@
     <Filter Include="Source\UnrealProject\Public">
       <UniqueIdentifier>{96590DD9-0D40-3FB0-BBE0-EDF93E4F30B4}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\UnrealProject\Public\Chest.h">
+      <Filter>Source\UnrealProject\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\UnrealProject\Public\ExplosiveBarrel.h">
       <Filter>Source\UnrealProject\Public</Filter>
     </ClInclude>

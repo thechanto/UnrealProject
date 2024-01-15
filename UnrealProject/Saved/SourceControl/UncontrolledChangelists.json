@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/ThirdPersonCharacter/BP_MyCharacter.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/StarterContent/Maps/Class.umap",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_diffuse.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_diffuse_ncl1_1.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_diffuse_ncl1_2.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_diffuse_ncl1_3.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_normal.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_normal_ncl1_1.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_normal_ncl1_2.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_normal_ncl1_3.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_specular.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_specular_ncl1_1.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_specular_ncl1_2.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Boss_specular_ncl1_3.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Cigar_Mat.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Clothes_MAT.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Clothes_MAT_ncl1_1.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Eyes_MAT.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Eyes_MAT_ncl1_1.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/Skin_MAT.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/The_Boss.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/The_Boss_PhysicsAsset.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/Meshes/Gela/The_Boss_Skeleton.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/GameplayComponent/BP_MagicProjectile.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/GameplayComponent/BP_ExplosiveBarrel.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/GameplayComponent/BP_ExplosiveBarrel01.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/ThirdPersonCharacter/Input/IMC_Default.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/ThirdPersonCharacter/Input/Actions/IA_LookMouse.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/ThirdPersonCharacter/Input/Actions/IA_Move.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/ThirdPersonCharacter/Input/Actions/IA_PrimaryAttack.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/ThirdPersonCharacter/Input/Actions/IA_Jump.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/ThirdPersonCharacter/GameMode/CustomGameMode.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/UI/WBP_HealthAndStamina.uasset",
+				"C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Content/GameplayComponent/BP_ExplosiveBarrek01.uasset"
+			]
+		}
+	]
+}

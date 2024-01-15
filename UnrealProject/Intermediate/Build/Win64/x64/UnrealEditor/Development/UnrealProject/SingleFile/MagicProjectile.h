@@ -1,0 +1,1 @@
+#include "C:/Users/DESKTOP.GE/Documents/Unreal Projects/UnrealProject/Source/UnrealProject/Public/MagicProjectile.h"

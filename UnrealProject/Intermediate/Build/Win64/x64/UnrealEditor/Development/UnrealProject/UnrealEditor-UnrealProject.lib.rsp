@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\DESKTOP.GE\Documents\Unreal Projects\UnrealProject\Intermediate\Build\Win64\x64\UnrealProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\DESKTOP.GE\Documents\Unreal Projects\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\ExplosiveBarrel.gen.cpp.obj"
+"C:\Users\DESKTOP.GE\Documents\Unreal Projects\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\MagicProjectile.gen.cpp.obj"
+"C:\Users\DESKTOP.GE\Documents\Unreal Projects\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\MyCharacter.gen.cpp.obj"
+"C:\Users\DESKTOP.GE\Documents\Unreal Projects\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\UnrealProject.init.gen.cpp.obj"
+"C:\Users\DESKTOP.GE\Documents\Unreal Projects\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\UnrealProject.cpp.obj"
+"C:\Users\DESKTOP.GE\Documents\Unreal Projects\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\ExplosiveBarrel.cpp.obj"
+"C:\Users\DESKTOP.GE\Documents\Unreal Projects\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\MagicProjectile.cpp.obj"
+"C:\Users\DESKTOP.GE\Documents\Unreal Projects\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\MyCharacter.cpp.obj"
+"C:\Users\DESKTOP.GE\Documents\Unreal Projects\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\Default.rc2.res"
+/OUT:"C:\Users\DESKTOP.GE\Documents\Unreal Projects\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\UnrealEditor-UnrealProject.lib"

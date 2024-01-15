@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealProject">
+      <UniqueIdentifier>{553CD66E-891B-3E4A-ABB2-377884EC38B6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealProject\UnrealProject.Build.cs">
+      <Filter>Source\UnrealProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealProject\UnrealProject.cpp">
+      <Filter>Source\UnrealProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealProject\UnrealProject.h">
+      <Filter>Source\UnrealProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealProject\Private">
+      <UniqueIdentifier>{3D7E34DE-5AE9-36F0-9BF3-902D243955B4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealProject\Private\ExplosiveBarrel.cpp">
+      <Filter>Source\UnrealProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealProject\Private\MagicProjectile.cpp">
+      <Filter>Source\UnrealProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealProject\Private\MyCharacter.cpp">
+      <Filter>Source\UnrealProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UnrealProject\Public">
+      <UniqueIdentifier>{96590DD9-0D40-3FB0-BBE0-EDF93E4F30B4}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealProject\Public\ExplosiveBarrel.h">
+      <Filter>Source\UnrealProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealProject\Public\MagicProjectile.h">
+      <Filter>Source\UnrealProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealProject\Public\MyCharacter.h">
+      <Filter>Source\UnrealProject\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

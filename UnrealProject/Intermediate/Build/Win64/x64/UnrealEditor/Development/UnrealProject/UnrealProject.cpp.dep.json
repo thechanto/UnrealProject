@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\desktop.ge\\documents\\unreal projects\\unrealproject\\source\\unrealproject\\unrealproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\desktop.ge\\documents\\unreal projects\\unrealproject\\intermediate\\build\\win64\\x64\\unrealprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\desktop.ge\\documents\\unreal projects\\unrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealproject\\definitions.unrealproject.h",
+            "c:\\users\\desktop.ge\\documents\\unreal projects\\unrealproject\\source\\unrealproject\\unrealproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
